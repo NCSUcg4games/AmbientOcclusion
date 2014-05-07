@@ -1,0 +1,9 @@
+0.0 0.0 0.5    0.0 0.0 -1.0   0.0 1.0 0.0   .5  1.25  .5
+
+The above #s:
+Camera Location
+Camera Direction
+Camera Vup
+Focal Length
+Aspect Ratio
+Viewscreen width
